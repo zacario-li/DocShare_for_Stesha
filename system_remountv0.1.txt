@@ -1,0 +1,3 @@
+#zacario
+http://android.stackexchange.com/questions/60446/cant-remount-system-in-rw
+这个路径上的讨论，也许有点帮助
